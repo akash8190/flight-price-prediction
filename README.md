@@ -11,10 +11,6 @@
   * [Future scope of project](#future-scope)
 
 
-## Demo
-Link:
-
-
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
